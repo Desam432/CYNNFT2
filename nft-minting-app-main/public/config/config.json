@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x395585cDCBD89d11c47EAd0567dC5b1eEEED471E",
+  "SCAN_LINK": "https://etherscan.io/address/0x395585cdcbd89d11c47ead0567dc5b1eeeed471e",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "CYN.NFT by Falselabs",
+  "SYMBOL": "CYNNFT",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 4500000000000000,
+  "DISPLAY_COST": 0.0045,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cyn-nft",
+  "SHOW_BACKGROUND": true
+}
